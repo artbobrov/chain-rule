@@ -1,0 +1,1 @@
+map{21}%>%filter{-4}%>%map{element}%>%map{((5*(-6<element))<((79+element)>element))}

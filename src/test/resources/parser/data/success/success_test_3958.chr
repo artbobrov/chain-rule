@@ -1,0 +1,1 @@
+filter{(((-2-element)+7)*-4)}%>%map{(element>-34485)}%>%map{element}

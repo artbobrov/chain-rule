@@ -1,0 +1,1 @@
+map{(element=64)}%>%map{element}%>%filter{5}%>%filter{(-2&980004)}

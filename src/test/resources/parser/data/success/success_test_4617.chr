@@ -1,0 +1,1 @@
+filter{(((element<(9*1))*(-961&68))&element)}%>%map{element}%>%filter{3}%>%filter{(element-element)}%>%map{element}%>%filter{-8}

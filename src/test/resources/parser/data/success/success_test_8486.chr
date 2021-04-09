@@ -1,0 +1,1 @@
+map{element}%>%filter{55}%>%map{(((element|2022)<(2*(element+39555)))<9)}%>%filter{((element&80)<-3)}

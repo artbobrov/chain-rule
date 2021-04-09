@@ -1,0 +1,1 @@
+filter{(-676&5)}%>%map{element}%>%map{-7}

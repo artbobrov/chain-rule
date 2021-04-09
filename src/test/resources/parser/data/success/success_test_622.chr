@@ -1,0 +1,1 @@
+filter{64}%>%map{(element+((element<(1<element))|element))}%>%filter{7}

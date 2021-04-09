@@ -1,0 +1,1 @@
+map{element}%>%filter{((((217009423+6)=element)&(element|9))<-3)}%>%map{element}

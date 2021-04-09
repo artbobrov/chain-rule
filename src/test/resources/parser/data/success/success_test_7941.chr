@@ -1,0 +1,1 @@
+map{-1}%>%filter{element}%>%filter{element}%>%map{((element>element)|((element>7755)>(element-element)))}

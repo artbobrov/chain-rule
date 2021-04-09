@@ -1,0 +1,1 @@
+map{((element>element)*element)}%>%map{-165}%>%filter{3}%>%map{((element&element)-97)}%>%map{(((element--5)<element)>-194)}%>%filter{element}%>%map{element}

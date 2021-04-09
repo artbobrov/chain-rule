@@ -1,0 +1,1 @@
+map{-570}%>%map{element}%>%filter{(-8|element)}%>%map{79}%>%filter{-3}%>%filter{-9}

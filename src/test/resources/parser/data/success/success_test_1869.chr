@@ -1,0 +1,1 @@
+filter{(((-50+((element|(element*element))-element))&element)|-9)}%>%map{(6+((element>33)<(-5>(-1|element))))}%>%map{(85>-397)}

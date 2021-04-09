@@ -1,0 +1,1 @@
+map{element}%>%map{(-6<element)}%>%map{(((element<-4)*element)*(-7230|(element>-1491555)))}

@@ -1,0 +1,1 @@
+filter{(((element=(-103*element))<-5)-(-19=element))}%>%filter{-62}

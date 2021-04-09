@@ -1,0 +1,1 @@
+map{element}%>%filter{(((1|-1)+element)|-4)}%>%filter{(-8206<1)}

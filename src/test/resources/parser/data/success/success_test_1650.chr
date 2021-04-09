@@ -1,0 +1,1 @@
+map{element}%>%map{element}%>%filter{element}%>%filter{6}%>%filter{((element&69)+element)}%>%map{element}%>%filter{-6}

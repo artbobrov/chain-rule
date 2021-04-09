@@ -1,0 +1,1 @@
+map{element}%>%map{(7+(element*67100))}%>%filter{(element<750)}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{(174>element)}%>%filter{1}%>%filter{(element&element)}%>%map{((((-6*element)<07)-(68|-1))>5218)}%>%map{-583}%>%map{(element&element)}%>%filter{-1}

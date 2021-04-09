@@ -1,0 +1,1 @@
+map{-58}%>%filter{4}%>%map{(27>element)}

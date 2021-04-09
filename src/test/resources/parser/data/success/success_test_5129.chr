@@ -1,0 +1,1 @@
+filter{1}%>%filter{(1-element)}%>%filter{-0}%>%map{(((element|element)|-5)+(614*(70767>(-7|-5))))}%>%filter{6}%>%filter{element}

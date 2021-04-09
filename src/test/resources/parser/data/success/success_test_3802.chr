@@ -1,0 +1,1 @@
+filter{27}%>%map{element}%>%map{element}%>%filter{element}%>%map{element}%>%map{(element<element)}

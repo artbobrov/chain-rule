@@ -1,0 +1,1 @@
+map{(0>(-41*element))}%>%filter{(element+(element*-8))}%>%map{element}

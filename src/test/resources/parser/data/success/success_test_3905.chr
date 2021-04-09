@@ -1,0 +1,1 @@
+map{-145}%>%filter{(1+element)}%>%filter{element}%>%filter{-53}%>%filter{-5}%>%filter{(element-element)}%>%map{(((element>element)&6)--125074)}

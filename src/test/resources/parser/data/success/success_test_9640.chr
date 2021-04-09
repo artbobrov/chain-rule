@@ -1,0 +1,1 @@
+map{(-77=element)}%>%map{5}%>%map{-90}%>%filter{(element-(((element>element)>(14>-8))<-0))}

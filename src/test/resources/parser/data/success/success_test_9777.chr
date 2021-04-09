@@ -1,0 +1,1 @@
+filter{52}%>%filter{((element&7)+-1)}%>%map{((-8>083)-(element+element))}%>%filter{-9}

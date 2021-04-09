@@ -1,0 +1,1 @@
+filter{(element=((((-392<70)|element)+07)=element))}%>%map{(element*55)}

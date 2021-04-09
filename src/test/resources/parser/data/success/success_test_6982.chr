@@ -1,0 +1,1 @@
+filter{((element&-0)>(element-9))}%>%map{element}%>%filter{((87*element)-((194&element)=443))}%>%map{element}

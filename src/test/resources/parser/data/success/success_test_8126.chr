@@ -1,0 +1,1 @@
+filter{-5}%>%map{-965}%>%map{element}%>%filter{(08<element)}%>%filter{(9879-6)}%>%map{(element&-757)}%>%filter{-2}

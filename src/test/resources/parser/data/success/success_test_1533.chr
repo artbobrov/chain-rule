@@ -1,0 +1,1 @@
+filter{element}%>%filter{(49>-31)}%>%map{(-243+(element&(element-8)))}

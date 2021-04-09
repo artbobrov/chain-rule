@@ -1,0 +1,1 @@
+filter{element}%>%filter{-3}%>%map{(element=((element*element)-(element|-9)))}%>%map{element}%>%filter{element}%>%map{(-31102+9)}

@@ -1,0 +1,1 @@
+filter{element}%>%map{3}%>%map{(001|(((122+(element&-92051))*element)=element))}%>%map{-9}

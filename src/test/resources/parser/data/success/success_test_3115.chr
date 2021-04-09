@@ -1,0 +1,1 @@
+map{element}%>%map{(((element|426)=1)<((element+-53)+(((element=element)*908)-9)))}%>%filter{element}%>%filter{element}

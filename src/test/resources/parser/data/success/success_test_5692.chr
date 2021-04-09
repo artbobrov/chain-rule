@@ -1,0 +1,1 @@
+map{8}%>%filter{(-2103&element)}%>%filter{(89|(element=2))}%>%filter{17}

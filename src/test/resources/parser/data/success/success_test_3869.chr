@@ -1,0 +1,1 @@
+filter{element}%>%map{((0&-1)<(element>(element-(element<-7))))}%>%filter{(element>element)}

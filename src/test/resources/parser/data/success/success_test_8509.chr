@@ -1,0 +1,1 @@
+map{(((33&element)|216)|element)}%>%map{(element<-6)}%>%map{((element>element)*15)}

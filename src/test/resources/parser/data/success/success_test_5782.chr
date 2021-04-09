@@ -1,0 +1,1 @@
+map{element}%>%filter{((((element&-030)=17)>00)--4)}

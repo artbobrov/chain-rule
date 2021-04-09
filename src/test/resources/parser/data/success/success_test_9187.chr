@@ -1,0 +1,1 @@
+map{(element*(element+5))}%>%filter{((((element+-4)+0)<(element+-599))>321)}

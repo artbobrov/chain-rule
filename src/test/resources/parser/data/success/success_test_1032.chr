@@ -1,0 +1,1 @@
+filter{60403}%>%map{element}%>%filter{(element*-51)}%>%filter{6}

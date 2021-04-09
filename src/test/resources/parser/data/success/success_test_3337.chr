@@ -1,0 +1,1 @@
+map{element}%>%filter{(element+-2)}%>%filter{(-3&element)}%>%map{(element*-59)}%>%map{(element&-23)}%>%filter{(element-13)}

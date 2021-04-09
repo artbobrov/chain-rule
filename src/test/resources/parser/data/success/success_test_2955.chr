@@ -1,0 +1,1 @@
+map{element}%>%filter{44}%>%map{(-0&element)}%>%map{013}

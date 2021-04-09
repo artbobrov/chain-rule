@@ -1,0 +1,1 @@
+map{3}%>%map{element}%>%map{(element<(element&-4))}

@@ -1,0 +1,1 @@
+filter{(-676&element)}%>%filter{element}%>%map{((1>element)<((9305>element)-(-82+-3)))}

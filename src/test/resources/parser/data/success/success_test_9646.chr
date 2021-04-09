@@ -1,0 +1,1 @@
+filter{910}%>%map{element}%>%filter{(-79&664)}

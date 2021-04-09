@@ -1,0 +1,1 @@
+filter{element}%>%filter{-32}%>%map{(element&(8741<45))}

@@ -1,0 +1,1 @@
+map{56}%>%filter{(-7404009*-3)}%>%map{-0}%>%map{-692}%>%filter{element}%>%map{(11<element)}%>%map{element}

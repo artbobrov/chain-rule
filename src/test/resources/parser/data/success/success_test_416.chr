@@ -1,0 +1,1 @@
+filter{element}%>%filter{(2|0)}%>%map{((-3545=element)<(4&2))}%>%filter{42}

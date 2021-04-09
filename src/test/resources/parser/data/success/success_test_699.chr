@@ -1,0 +1,1 @@
+filter{(49>element)}%>%filter{(element|(2=04))}%>%map{element}

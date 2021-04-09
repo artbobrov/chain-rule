@@ -1,0 +1,1 @@
+filter{(4>element)}%>%map{10}%>%map{(element+((5*element)<114))}%>%filter{(-2<(0=element))}

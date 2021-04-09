@@ -1,0 +1,1 @@
+filter{element}%>%filter{(-2|37438)}%>%filter{((element=(-0271>(2&50)))=element)}%>%map{(((1052<5)<element)<element)}

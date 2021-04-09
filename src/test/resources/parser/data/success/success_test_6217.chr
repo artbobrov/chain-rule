@@ -1,0 +1,1 @@
+filter{((7&element)*element)}%>%filter{(5-7)}%>%filter{((-19+element)|element)}

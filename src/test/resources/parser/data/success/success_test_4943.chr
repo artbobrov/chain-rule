@@ -1,0 +1,1 @@
+map{50}%>%map{(element>(element*element))}

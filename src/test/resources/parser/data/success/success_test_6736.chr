@@ -1,0 +1,1 @@
+map{element}%>%filter{element}%>%filter{(element>-42)}%>%filter{(-840&element)}

@@ -1,0 +1,1 @@
+filter{101}%>%filter{5}%>%map{element}%>%map{(4|(((116>(((element>element)<(4|2))&element))-element)&-5))}%>%filter{(element>element)}

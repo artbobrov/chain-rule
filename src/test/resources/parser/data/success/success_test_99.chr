@@ -1,0 +1,1 @@
+filter{(-281>element)}%>%filter{(1*3940)}%>%map{element}%>%filter{(element+element)}%>%map{((-2+(-6*(-3|element)))+(90--1348647))}

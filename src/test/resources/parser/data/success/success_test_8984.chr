@@ -1,0 +1,1 @@
+filter{element}%>%map{-65}%>%map{((((element&-60)|(-942+-5))<((element=((element*-3)|(-66*4)))=(700+element)))&element)}%>%map{-85958761}

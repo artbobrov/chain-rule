@@ -1,0 +1,1 @@
+map{element}%>%filter{((-808*element)+element)}

@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%map{87}%>%filter{((element<element)&element)}%>%filter{(element|element)}%>%filter{(((element+77)&(-5370=(-0476-element)))*-3811)}%>%map{6}

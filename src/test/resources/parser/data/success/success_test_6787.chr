@@ -1,0 +1,1 @@
+filter{66496}%>%filter{(-1&element)}%>%map{3}

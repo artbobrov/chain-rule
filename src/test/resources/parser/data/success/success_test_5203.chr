@@ -1,0 +1,1 @@
+filter{((-88*((element*487)+-3))>(element=element))}%>%map{element}%>%filter{element}

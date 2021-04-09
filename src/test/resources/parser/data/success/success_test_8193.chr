@@ -1,0 +1,1 @@
+map{8}%>%map{21}%>%map{element}%>%map{element}%>%filter{element}%>%filter{element}

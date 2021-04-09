@@ -1,0 +1,1 @@
+map{element}%>%filter{((element|-8)<element)}%>%filter{(((2|((433629*-23)&(-9<(847820*element))))=element)<19)}%>%map{element}

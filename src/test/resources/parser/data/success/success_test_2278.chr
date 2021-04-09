@@ -1,0 +1,1 @@
+map{6}%>%filter{-118}%>%filter{(element+element)}%>%map{element}

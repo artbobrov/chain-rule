@@ -1,0 +1,1 @@
+map{element}%>%map{(element-(-390*element))}%>%map{(((element*element)&0)-3)}%>%map{element}

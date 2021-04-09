@@ -1,0 +1,1 @@
+filter{(-236<element)}%>%map{(element+element)}%>%filter{element}%>%filter{(((element>(element<(5|51)))*76)*element)}%>%map{-5763}

@@ -1,0 +1,1 @@
+map{(element=((2171<-168)-element))}%>%filter{(element-element)}

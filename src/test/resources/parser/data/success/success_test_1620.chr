@@ -1,0 +1,1 @@
+map{-1}%>%filter{(458+(element&element))}%>%map{element}

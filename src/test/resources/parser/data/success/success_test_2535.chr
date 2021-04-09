@@ -1,0 +1,1 @@
+filter{element}%>%map{(74+((element>(7<3))*element))}%>%filter{(8>((-55&(element+element))=-501))}%>%filter{element}

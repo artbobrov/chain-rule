@@ -1,0 +1,1 @@
+map{((element|(-670*element))*element)}%>%filter{(8940863--37)}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{(6|3376)}%>%map{(element<((element<-9)--4))}%>%map{(element+element)}

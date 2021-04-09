@@ -1,0 +1,1 @@
+map{8}%>%map{(-4+(-2|element))}%>%filter{(element=element)}%>%filter{4}%>%filter{-945}%>%map{6}

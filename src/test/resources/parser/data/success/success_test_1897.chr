@@ -1,0 +1,1 @@
+map{262}%>%filter{-2}%>%map{(((element*(element+(element=(3021622--501))))*(-44+element))=element)}%>%filter{element}

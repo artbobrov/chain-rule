@@ -1,0 +1,1 @@
+filter{(element+(-0&(element<2)))}%>%map{element}

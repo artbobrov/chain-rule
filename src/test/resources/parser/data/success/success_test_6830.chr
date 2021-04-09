@@ -1,0 +1,1 @@
+map{5}%>%map{element}%>%filter{(-2*(-6+element))}

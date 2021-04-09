@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%filter{element}%>%filter{((element<((element|27047)*element))&element)}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{-2}%>%map{((element*element)&((((element*(-42|element))<(element--5))&-7)+element))}

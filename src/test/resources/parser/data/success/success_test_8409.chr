@@ -1,0 +1,1 @@
+map{-80}%>%map{element}%>%map{element}%>%filter{((5<element)>-5)}

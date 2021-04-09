@@ -1,0 +1,1 @@
+filter{(element&-65467)}%>%filter{0}%>%map{-8}%>%map{3482}

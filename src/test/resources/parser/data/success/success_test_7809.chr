@@ -1,0 +1,1 @@
+filter{element}%>%filter{(-5*(element=((element>(element|3))|9978)))}%>%filter{-4}%>%map{(32*3049)}%>%map{(element+(1961=element))}

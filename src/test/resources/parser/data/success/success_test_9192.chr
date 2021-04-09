@@ -1,0 +1,1 @@
+filter{-3}%>%map{element}%>%map{element}%>%map{element}%>%filter{(element+(-2219554<element))}%>%filter{element}%>%map{(3<(5&-7))}

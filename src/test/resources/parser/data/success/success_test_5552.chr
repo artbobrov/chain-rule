@@ -1,0 +1,1 @@
+map{64}%>%map{(element--12)}%>%filter{-83}%>%map{element}

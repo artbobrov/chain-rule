@@ -1,0 +1,1 @@
+map{90}%>%filter{((element=4)&((element&-91323)*4))}

@@ -1,0 +1,1 @@
+filter{((-6|(element<(element&9)))-5)}%>%filter{(-99=31)}%>%filter{-86}%>%filter{4}%>%map{element}

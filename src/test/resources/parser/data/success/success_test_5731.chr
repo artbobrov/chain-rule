@@ -1,0 +1,1 @@
+filter{(-165&1845)}%>%map{(element=(element|element))}

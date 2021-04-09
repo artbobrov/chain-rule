@@ -1,0 +1,1 @@
+map{-7881}%>%map{31}%>%filter{element}%>%map{((element+element)&4)}%>%filter{element}

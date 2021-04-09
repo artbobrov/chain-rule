@@ -1,0 +1,1 @@
+filter{((7|element)<element)}%>%filter{750}%>%filter{(((3*element)*element)<(element*element))}%>%map{element}%>%map{(-4481>(5&(element+((((-0693&element)*1)*(element|element))=element))))}%>%filter{24}

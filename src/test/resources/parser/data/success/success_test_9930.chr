@@ -1,0 +1,1 @@
+map{-99}%>%filter{(element*element)}%>%map{(((52*-99)&element)&-95)}

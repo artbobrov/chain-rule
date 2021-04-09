@@ -1,0 +1,1 @@
+map{element}%>%filter{2}%>%map{-1}%>%map{((((element+8296)=49221)=-14)+element)}

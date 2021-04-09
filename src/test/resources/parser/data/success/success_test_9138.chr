@@ -1,0 +1,1 @@
+filter{element}%>%map{(6-551)}%>%map{element}%>%filter{((element+element)+93)}

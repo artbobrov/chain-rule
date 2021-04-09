@@ -1,0 +1,1 @@
+filter{-3}%>%filter{element}%>%filter{element}%>%map{element}%>%filter{-3}%>%filter{element}%>%filter{((element+element)>element)}%>%filter{((-9&((element-element)|element))--1)}%>%filter{((element--17)|(element*-9))}

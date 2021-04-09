@@ -1,0 +1,1 @@
+filter{element}%>%map{(9+((element*element)|(element+(-60>-2))))}%>%filter{80}

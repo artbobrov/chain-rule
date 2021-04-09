@@ -1,0 +1,1 @@
+filter{-89}%>%map{(-4680-(element*(element|4)))}

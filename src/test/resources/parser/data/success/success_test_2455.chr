@@ -1,0 +1,1 @@
+filter{8}%>%filter{(-2*element)}%>%filter{(-3129|element)}%>%filter{element}%>%filter{(element>(6<(element>element)))}%>%map{element}%>%filter{element}

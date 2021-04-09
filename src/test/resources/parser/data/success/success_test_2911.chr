@@ -1,0 +1,1 @@
+filter{(750=(-9&-9))}%>%map{-800}%>%map{element}%>%filter{element}%>%map{(3420+22)}%>%map{(element+element)}

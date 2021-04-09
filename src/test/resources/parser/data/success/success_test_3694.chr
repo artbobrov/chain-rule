@@ -1,0 +1,1 @@
+map{36}%>%filter{(1<(-6*element))}%>%filter{-51}%>%filter{element}

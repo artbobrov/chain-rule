@@ -1,0 +1,1 @@
+filter{(-7>element)}%>%map{((((element=(element-(-30|((element*282)-((7&-22358)|element)))))*(element-339239))+-87)*27)}%>%filter{6}%>%filter{element}

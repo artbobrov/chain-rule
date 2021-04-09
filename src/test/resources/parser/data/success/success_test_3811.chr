@@ -1,0 +1,1 @@
+map{(3816&element)}%>%filter{element}%>%filter{3}%>%map{((((element&(element*element))*-10)>0)<element)}%>%map{element}%>%filter{-1}%>%filter{-93}

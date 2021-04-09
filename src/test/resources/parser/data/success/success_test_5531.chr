@@ -1,0 +1,1 @@
+filter{(((4>1)>(30|-6))>element)}%>%map{-5}%>%filter{element}%>%filter{-860}%>%map{(element>(3*element))}

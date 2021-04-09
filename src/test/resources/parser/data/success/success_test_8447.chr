@@ -1,0 +1,1 @@
+filter{-6}%>%filter{element}%>%filter{element}%>%filter{(-1|(-2<element))}%>%filter{(-8-element)}%>%map{(element--5)}

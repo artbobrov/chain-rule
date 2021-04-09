@@ -1,0 +1,1 @@
+filter{(((element|40751)+16)+element)}%>%map{element}

@@ -1,0 +1,1 @@
+filter{9}%>%filter{-57}%>%filter{(element>647355)}%>%map{7}%>%filter{(-2*(((element=(9&element))&9)-(((element|(-4749>077))&4)&89)))}%>%filter{element}%>%map{0}

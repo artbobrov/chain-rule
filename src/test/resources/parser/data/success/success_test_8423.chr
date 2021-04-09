@@ -1,0 +1,1 @@
+filter{element}%>%map{((-1-(element&-81))<7)}

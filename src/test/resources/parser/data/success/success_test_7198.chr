@@ -1,0 +1,1 @@
+map{19}%>%map{(element>((-30--570)+-3))}%>%map{(-4<element)}%>%map{36}%>%filter{(element|(-91=element))}

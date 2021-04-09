@@ -1,0 +1,1 @@
+filter{(-761=(element|7))}%>%map{(-0&(element+(((2082&(1<element))-element)*element)))}%>%filter{((-74647&8)&(-5*-0))}%>%map{-511}%>%filter{-1}

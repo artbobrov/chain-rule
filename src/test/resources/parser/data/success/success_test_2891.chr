@@ -1,0 +1,1 @@
+filter{((2>element)=07)}%>%filter{-32006}%>%map{9}

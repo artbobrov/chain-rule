@@ -1,0 +1,1 @@
+filter{3}%>%map{(048=(element&element))}%>%filter{element}

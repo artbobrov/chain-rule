@@ -1,0 +1,1 @@
+filter{-6}%>%map{element}%>%map{(9529<element)}%>%filter{(0&(element<082))}%>%map{553}

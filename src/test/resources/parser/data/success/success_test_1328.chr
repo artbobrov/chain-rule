@@ -1,0 +1,1 @@
+filter{9}%>%map{(((element|(element<(element&-4)))+(-0>element))>(element*9))}%>%filter{6}%>%filter{element}%>%filter{(((8>0)&1)<(045&((615-element)&(-5+element))))}%>%map{element}%>%filter{((-820<5)-17)}%>%map{element}

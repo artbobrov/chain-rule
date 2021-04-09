@@ -1,0 +1,1 @@
+map{element}%>%filter{-331}%>%map{31}%>%map{((element&-76)|element)}

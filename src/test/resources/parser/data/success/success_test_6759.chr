@@ -1,0 +1,1 @@
+map{5}%>%map{4}%>%filter{97}%>%map{element}%>%filter{350}%>%map{((element*element)+(element&element))}

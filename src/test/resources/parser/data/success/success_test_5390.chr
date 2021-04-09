@@ -1,0 +1,1 @@
+filter{31}%>%filter{1}%>%map{(((element+-46)-element)<element)}

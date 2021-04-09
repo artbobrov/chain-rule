@@ -1,0 +1,1 @@
+map{element}%>%filter{element}%>%filter{(((element+element)|92)+1)}%>%map{element}

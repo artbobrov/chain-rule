@@ -1,0 +1,1 @@
+filter{(-7=((8|element)|-56))}%>%map{element}

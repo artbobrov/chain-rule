@@ -1,0 +1,1 @@
+filter{5}%>%map{((43920468*element)+element)}

@@ -1,0 +1,1 @@
+filter{element}%>%map{-0}%>%filter{(element|(896*(element+element)))}%>%filter{-4}

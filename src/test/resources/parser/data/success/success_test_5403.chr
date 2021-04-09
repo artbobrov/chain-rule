@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%filter{0}%>%filter{((element&-0)-0449056)}

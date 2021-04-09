@@ -1,0 +1,1 @@
+map{element}%>%map{(-4<element)}%>%map{-26}

@@ -1,0 +1,1 @@
+filter{(-3648<4081)}%>%map{(((element|((996+(((-72>26)&(8<element))&element))+-7))>-16)<element)}

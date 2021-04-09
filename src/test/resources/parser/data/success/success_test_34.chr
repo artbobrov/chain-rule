@@ -1,0 +1,1 @@
+filter{(element=31981)}%>%filter{199}%>%filter{(element|(-0807|1))}%>%map{(element*110774)}%>%filter{-2}

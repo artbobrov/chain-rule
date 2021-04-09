@@ -1,0 +1,1 @@
+filter{element}%>%map{-484}%>%map{element}%>%map{(-6|((element|element)|-457))}

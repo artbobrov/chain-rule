@@ -1,0 +1,1 @@
+filter{(element=(7>(183<element)))}%>%map{(-8*(032=element))}%>%filter{(element>-40)}%>%map{(-0415+(element+-8))}%>%filter{element}%>%filter{element}%>%map{element}

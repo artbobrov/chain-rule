@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%filter{(element<9412)}%>%map{(element*element)}%>%map{element}%>%map{element}

@@ -1,0 +1,1 @@
+filter{(((-27+(element<((element+(-255<element))+-5288)))|(element>element))&42)}%>%filter{1}%>%map{element}

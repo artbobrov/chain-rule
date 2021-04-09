@@ -1,0 +1,1 @@
+filter{(element&(2=-6))}%>%map{-40}

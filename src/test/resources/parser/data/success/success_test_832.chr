@@ -1,0 +1,1 @@
+filter{(((-14<2)+((7=element)*element))-8)}%>%map{(-1|-8)}%>%map{element}%>%map{element}%>%filter{1}

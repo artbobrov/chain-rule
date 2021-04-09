@@ -1,0 +1,1 @@
+map{6}%>%map{974}%>%filter{element}%>%map{element}%>%filter{element}%>%filter{(element-(((30117>element)=(element&7))&(-972101*element)))}

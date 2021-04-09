@@ -1,0 +1,1 @@
+filter{8}%>%map{element}%>%map{-3523}%>%map{((-6&-18)&-9)}

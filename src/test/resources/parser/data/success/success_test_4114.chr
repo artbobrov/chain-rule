@@ -1,0 +1,1 @@
+map{element}%>%filter{((element|((element+-5)+7))>(element>4))}%>%map{45}%>%filter{6964}

@@ -1,0 +1,1 @@
+filter{27}%>%map{(element>(20=(element*element)))}%>%map{(2>(element=element))}%>%map{element}

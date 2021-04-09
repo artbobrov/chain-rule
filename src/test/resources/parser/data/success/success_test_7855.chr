@@ -1,0 +1,1 @@
+filter{(element>element)}%>%filter{(-556&element)}%>%map{-5}

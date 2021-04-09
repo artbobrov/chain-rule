@@ -1,0 +1,1 @@
+map{element}%>%filter{((236*element)>51)}%>%map{(element--4659)}%>%map{0}%>%filter{-174}%>%map{((element+-037222)*(element|element))}%>%map{(8|(element|-39))}

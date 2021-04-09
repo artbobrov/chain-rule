@@ -1,0 +1,1 @@
+map{element}%>%map{((element--5)+(element&((65-(element+(element*374)))|element)))}%>%filter{((2-element)=-3)}

@@ -1,0 +1,1 @@
+filter{0}%>%map{(element=323)}%>%filter{(((element|(element|7))>element)+element)}%>%map{element}%>%map{element}

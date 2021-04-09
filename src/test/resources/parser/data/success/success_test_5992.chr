@@ -1,0 +1,1 @@
+filter{26}%>%map{((-6603641=element)*(element+7))}%>%map{element}

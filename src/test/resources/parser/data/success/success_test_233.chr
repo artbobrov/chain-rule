@@ -1,0 +1,1 @@
+filter{((-6=(8&(element=(-9+(element=2)))))*element)}%>%map{(-0<element)}%>%filter{element}

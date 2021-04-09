@@ -1,0 +1,1 @@
+filter{(4|(00-((4*((-3*(element<577))-element))-element)))}%>%map{element}%>%filter{(-2-((-1&((element&element)+element))*element))}%>%map{(element|1)}%>%map{element}

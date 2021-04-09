@@ -1,0 +1,1 @@
+filter{(-35|-0)}%>%filter{((((element|03)>49)=((5<element)*-3358))<-83)}%>%filter{(57+-2)}%>%map{(element+(-54772&69540))}%>%filter{element}%>%filter{10}

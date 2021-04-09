@@ -1,0 +1,1 @@
+filter{element}%>%map{((element&(0>element))+(0&(-7*9)))}%>%map{105}

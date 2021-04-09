@@ -1,0 +1,1 @@
+filter{(7&-9)}%>%map{(element-element)}%>%map{element}

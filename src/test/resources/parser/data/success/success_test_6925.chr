@@ -1,0 +1,1 @@
+map{element}%>%map{2974}%>%map{581}%>%filter{element}%>%filter{(-42=element)}%>%filter{-718}%>%map{element}

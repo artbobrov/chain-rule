@@ -1,0 +1,1 @@
+filter{-27}%>%filter{(element>47)}%>%map{(element*((element+element)|element))}

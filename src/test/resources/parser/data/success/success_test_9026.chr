@@ -1,0 +1,1 @@
+filter{(2*element)}%>%map{(((element&element)*9)*(element|((3493+(6&((((element>element)*40)=9)-element)))<-5)))}

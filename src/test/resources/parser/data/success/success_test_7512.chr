@@ -1,0 +1,1 @@
+filter{(1+element)}%>%filter{(((element<element)*9)<((element+-44)<(element+element)))}%>%map{element}%>%filter{element}

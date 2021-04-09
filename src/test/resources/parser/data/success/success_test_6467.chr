@@ -1,0 +1,1 @@
+map{element}%>%filter{((5|621)=element)}

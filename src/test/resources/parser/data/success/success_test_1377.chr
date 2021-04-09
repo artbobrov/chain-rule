@@ -1,0 +1,1 @@
+map{-3}%>%filter{element}%>%map{(((element*-9)=(-63&-4))*(40=-53))}

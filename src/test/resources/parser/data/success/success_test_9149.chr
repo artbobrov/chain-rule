@@ -1,0 +1,1 @@
+filter{(2-99)}%>%filter{(element|((0<element)|(-8*element)))}%>%filter{(-297&element)}

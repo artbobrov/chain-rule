@@ -1,0 +1,1 @@
+map{(-5*(element&((3+element)+element)))}%>%map{(((element<element)-element)*element)}

@@ -1,0 +1,1 @@
+map{-744}%>%map{element}%>%map{(element+element)}%>%filter{element}%>%filter{(element*element)}

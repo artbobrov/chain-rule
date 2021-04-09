@@ -1,0 +1,1 @@
+map{(element>40)}%>%map{(element=(-9>36805))}%>%map{((((element*element)&7)|(element+element))>((element&766870)+(((element*-2)*element)|0)))}

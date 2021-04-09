@@ -1,0 +1,1 @@
+filter{(element*(element&333))}%>%map{(element=((-90>element)--699))}

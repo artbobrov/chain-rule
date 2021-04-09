@@ -1,0 +1,1 @@
+map{124}%>%filter{-4}%>%filter{(-535*element)}

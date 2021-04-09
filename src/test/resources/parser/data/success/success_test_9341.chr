@@ -1,0 +1,1 @@
+map{32}%>%filter{-4653}%>%filter{((element=(8<element))*element)}%>%map{((element*element)<(1+element))}%>%filter{element}%>%map{-76}%>%map{6}

@@ -1,0 +1,1 @@
+map{element}%>%map{element}%>%filter{(element&5)}%>%map{element}%>%filter{(-765=(((element*8)<element)<element))}

@@ -1,0 +1,1 @@
+filter{((element>(element*-6273))|((element-5)>-9139))}%>%filter{element}%>%map{element}%>%map{element}%>%filter{-1}

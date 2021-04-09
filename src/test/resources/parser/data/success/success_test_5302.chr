@@ -1,0 +1,1 @@
+map{element}%>%filter{(-2+((7=element)+8))}%>%filter{((8+-93)&(element*-3328))}%>%map{(((element>((-0+element)+08))<-7330)*element)}%>%map{element}

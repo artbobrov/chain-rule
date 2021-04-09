@@ -1,0 +1,1 @@
+map{element}%>%filter{(element=6160)}%>%filter{(56>(element=(835|(element-3))))}%>%filter{(element<524)}%>%map{-0}%>%map{element}%>%map{(element<94)}%>%map{(element-element)}%>%map{(element|(element+-67))}%>%filter{element}%>%filter{-0}%>%filter{((element=-76)|(element=(-1+4)))}%>%filter{element}%>%filter{(((-82|-3)=(element*-11))<-5)}

@@ -1,0 +1,1 @@
+map{9492716617}%>%filter{element}%>%map{(-7+element)}

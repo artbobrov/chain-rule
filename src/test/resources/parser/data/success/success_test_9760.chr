@@ -1,0 +1,1 @@
+map{-71715}%>%filter{element}%>%map{(79614*element)}%>%filter{element}

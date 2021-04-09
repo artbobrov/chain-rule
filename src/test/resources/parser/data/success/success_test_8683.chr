@@ -1,0 +1,1 @@
+filter{(element=-7313292)}%>%map{(18&(element|element))}

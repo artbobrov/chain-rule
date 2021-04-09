@@ -1,0 +1,1 @@
+filter{(2312*(element&3))}%>%filter{element}%>%filter{(-1-element)}%>%filter{element}%>%map{(element&7)}

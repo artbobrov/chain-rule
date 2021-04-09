@@ -1,0 +1,1 @@
+map{element}%>%map{(-1*(element+(element|973)))}%>%filter{8}

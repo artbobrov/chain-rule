@@ -1,0 +1,1 @@
+map{47}%>%map{element}%>%filter{element}%>%map{7}%>%map{(element*(element|246))}%>%filter{element}%>%filter{((element*element)*element)}

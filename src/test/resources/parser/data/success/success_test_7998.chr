@@ -1,0 +1,1 @@
+filter{(((element&-11)<-6)-(27=0))}%>%filter{-605}%>%filter{((((-9502<0)+6)=75)*element)}%>%map{element}%>%map{-1}%>%map{-1}%>%filter{(element+-2)}%>%map{(-6-element)}

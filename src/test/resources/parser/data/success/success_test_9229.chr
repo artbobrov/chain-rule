@@ -1,0 +1,1 @@
+filter{7}%>%filter{element}%>%map{-3}%>%filter{((-5&8)<56)}%>%map{-8}

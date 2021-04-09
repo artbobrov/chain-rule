@@ -1,0 +1,1 @@
+filter{(element=((-119954>-22)&(51+(element*(((element|(38|-28))&element)-58)))))}%>%map{element}%>%map{(0<element)}

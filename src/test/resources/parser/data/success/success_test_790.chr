@@ -1,0 +1,1 @@
+map{-3}%>%map{5243}%>%filter{(4&-6)}%>%filter{((element*85)*element)}

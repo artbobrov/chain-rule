@@ -1,0 +1,1 @@
+map{(4581*(element>29))}%>%filter{((((98-(element*element))<4)-element)|(1<element))}

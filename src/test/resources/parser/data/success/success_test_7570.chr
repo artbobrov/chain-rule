@@ -1,0 +1,1 @@
+filter{((-02844|element)+-8)}%>%map{((-4*element)=(-5>element))}%>%filter{((-7*6)-(7016964&element))}

@@ -1,0 +1,1 @@
+map{267}%>%map{element}%>%filter{element}%>%map{(element>((1717*21)*2525))}%>%map{element}

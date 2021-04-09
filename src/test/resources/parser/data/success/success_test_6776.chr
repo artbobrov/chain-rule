@@ -1,0 +1,1 @@
+map{-8}%>%map{element}%>%filter{element}%>%map{(element<element)}%>%map{7}%>%map{39055717}%>%map{(-21=element)}%>%map{(-8524|element)}%>%filter{element}%>%filter{element}%>%map{(element<-7)}

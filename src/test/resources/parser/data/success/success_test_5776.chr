@@ -1,0 +1,1 @@
+filter{(element+-53)}%>%filter{(element+(element<70))}%>%map{element}%>%map{((element>-8)&(-6<element))}

@@ -1,0 +1,1 @@
+filter{((-6>element)-((element*element)+(element+element)))}%>%map{element}%>%map{-0}

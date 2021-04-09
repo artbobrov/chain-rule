@@ -1,0 +1,1 @@
+map{element}%>%filter{(element>element)}%>%map{45}%>%map{(element*0)}%>%map{(element+-4)}%>%map{931940942}

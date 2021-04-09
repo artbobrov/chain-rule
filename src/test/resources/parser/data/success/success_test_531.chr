@@ -1,0 +1,1 @@
+map{(element*6)}%>%filter{(16*-8)}%>%filter{element}%>%map{-7246}%>%filter{element}%>%map{-265}%>%map{(element-334)}%>%filter{element}

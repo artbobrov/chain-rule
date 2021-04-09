@@ -1,0 +1,1 @@
+map{element}%>%filter{(((element=85)<5279)-(172*(element*element)))}%>%map{-48}%>%filter{element}

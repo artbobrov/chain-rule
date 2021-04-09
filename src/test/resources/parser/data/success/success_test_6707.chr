@@ -1,0 +1,1 @@
+filter{element}%>%filter{(3557+element)}%>%filter{473}%>%map{((element<-43)&-2)}%>%map{(((((-5>element)&element)&element)=765434)|(element&element))}%>%filter{(element-element)}

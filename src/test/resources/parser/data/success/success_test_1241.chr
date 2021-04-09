@@ -1,0 +1,1 @@
+map{element}%>%filter{(51>(((element|-49)--59)|element))}%>%filter{-39}%>%map{element}%>%filter{-4}

@@ -1,0 +1,1 @@
+filter{(-5&3)}%>%filter{((-21&((element*89)<((element<3)&element)))-((element<element)+3))}%>%filter{(element&195444)}%>%map{-10}

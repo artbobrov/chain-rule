@@ -1,0 +1,1 @@
+map{element}%>%map{((126>50)-element)}%>%filter{element}

@@ -1,0 +1,1 @@
+map{(-740+2)}%>%map{((element&element)--6)}%>%filter{-31}%>%filter{element}%>%map{(((73>element)&element)>1)}%>%filter{418}

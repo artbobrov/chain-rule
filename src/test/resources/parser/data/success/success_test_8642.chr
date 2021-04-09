@@ -1,0 +1,1 @@
+filter{1}%>%filter{-2301}%>%filter{element}%>%map{(((-48183|element)-(element>(((element--4)+element)>7)))<((element&(element<element))=element))}

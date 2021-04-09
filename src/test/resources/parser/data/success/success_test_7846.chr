@@ -1,0 +1,1 @@
+filter{(7|-4)}%>%filter{(((-9&element)&3)=(6<element))}%>%map{element}%>%filter{(element=(element&9))}%>%map{element}%>%map{element}

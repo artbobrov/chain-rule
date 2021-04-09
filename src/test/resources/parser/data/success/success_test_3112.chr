@@ -1,0 +1,1 @@
+map{(-21+element)}%>%filter{((element>element)&99)}%>%filter{element}%>%map{element}

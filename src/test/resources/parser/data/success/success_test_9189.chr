@@ -1,0 +1,1 @@
+filter{element}%>%filter{-676}%>%filter{8}%>%map{(((-70+(element*element))*3)>((-8<(-2|-6176))|5))}

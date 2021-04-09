@@ -1,0 +1,1 @@
+filter{(element|(((element+-32)+9)=element))}%>%map{element}%>%filter{element}%>%filter{(4=element)}%>%filter{-4808}

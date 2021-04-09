@@ -1,0 +1,1 @@
+filter{element}%>%filter{(element+element)}%>%filter{element}%>%map{(((((element=(44|element))&(-9*2))=element)+25)>element)}

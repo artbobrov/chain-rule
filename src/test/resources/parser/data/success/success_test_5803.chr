@@ -1,0 +1,1 @@
+filter{(-5981--25)}%>%map{element}%>%filter{(4*(element|(-95|(819+-9))))}

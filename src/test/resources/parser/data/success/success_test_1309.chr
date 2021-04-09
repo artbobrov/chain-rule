@@ -1,0 +1,1 @@
+filter{702}%>%filter{element}%>%filter{-8}%>%filter{47464827}%>%map{(-875376*((element+((element*element)-4))-element))}

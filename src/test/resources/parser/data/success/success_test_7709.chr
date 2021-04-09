@@ -1,0 +1,1 @@
+filter{(-2<(4+element))}%>%filter{(((element<((((element+element)|5)|7)&60))*3)|-4)}%>%filter{((64124*-12)=(element|(6|element)))}%>%map{element}%>%map{(element--83)}%>%map{-3}%>%map{-36}%>%map{element}%>%filter{405}%>%filter{4}%>%map{element}

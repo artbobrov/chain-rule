@@ -1,0 +1,1 @@
+filter{(element&(17<element))}%>%map{(-4248+(element*(element*element)))}%>%filter{(element|-1267)}%>%filter{316}%>%map{(element&50470)}%>%filter{(77+-0)}%>%filter{7}%>%map{((element=(-333--3))*(element*element))}

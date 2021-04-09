@@ -1,0 +1,1 @@
+filter{392}%>%map{element}%>%filter{(element=(element>element))}%>%filter{((element|element)<28)}%>%filter{4}

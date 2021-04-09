@@ -1,0 +1,1 @@
+filter{0}%>%filter{element}%>%filter{3573}%>%filter{(element<element)}%>%filter{element}%>%filter{(((element+-4)&element)=element)}%>%map{-43}%>%map{(-9<(element>element))}%>%map{((-849>(element>-04))=element)}

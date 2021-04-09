@@ -1,0 +1,1 @@
+filter{11}%>%map{((element|(-4+(element&(-1665=((element+(8-(element*2121)))|5)))))*element)}%>%map{14}

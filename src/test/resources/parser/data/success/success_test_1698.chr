@@ -1,0 +1,1 @@
+filter{-6}%>%filter{(-4*((element&-1)-(element+693)))}%>%map{154}

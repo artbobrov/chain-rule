@@ -1,0 +1,1 @@
+map{(element|1)}%>%filter{element}%>%map{((((element>(element&(1&(((element>element)=(((element<element)+-738)>element))=(element&element)))))|7)+element)|09)}%>%filter{element}

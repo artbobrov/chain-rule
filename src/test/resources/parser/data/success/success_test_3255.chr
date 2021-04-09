@@ -1,0 +1,1 @@
+map{9}%>%map{3}%>%filter{81}%>%filter{((014--401)&element)}%>%map{element}

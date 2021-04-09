@@ -1,0 +1,1 @@
+map{element}%>%filter{((element=element)|-8)}%>%filter{(73+(((element&((5>element)-element))*39)>element))}%>%filter{(element|2)}%>%map{element}

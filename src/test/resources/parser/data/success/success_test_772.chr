@@ -1,0 +1,1 @@
+filter{(39392&element)}%>%filter{element}%>%map{-6426}

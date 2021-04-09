@@ -1,0 +1,1 @@
+map{8}%>%filter{-0}%>%filter{-2}%>%filter{element}

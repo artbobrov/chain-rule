@@ -1,0 +1,1 @@
+map{((element+81)|93)}%>%filter{(element&element)}

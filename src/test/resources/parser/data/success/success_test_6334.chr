@@ -1,0 +1,1 @@
+filter{83}%>%map{((9&3)>((element<element)-element))}

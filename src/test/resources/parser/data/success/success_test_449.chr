@@ -1,0 +1,1 @@
+filter{((-7&element)-((-2*(((element|(-8-element))<-4)|(element<-3)))+element))}

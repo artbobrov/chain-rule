@@ -1,0 +1,1 @@
+map{element}%>%filter{(element&((211-element)=element))}%>%filter{-1}

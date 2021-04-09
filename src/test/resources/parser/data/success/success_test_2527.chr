@@ -1,0 +1,1 @@
+map{element}%>%filter{((element|(element+((element&element)<-7)))-(((((-8&-5169959)&element)--21548)|9)>element))}

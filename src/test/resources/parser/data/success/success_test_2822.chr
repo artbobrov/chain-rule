@@ -1,0 +1,1 @@
+map{element}%>%map{-7}%>%filter{594}%>%filter{5}%>%map{element}%>%map{element}%>%map{element}%>%filter{element}

@@ -1,0 +1,1 @@
+map{-6}%>%filter{41}%>%map{(60<element)}%>%map{(((element&-4)*element)&3)}

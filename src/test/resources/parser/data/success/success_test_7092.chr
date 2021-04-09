@@ -1,0 +1,1 @@
+filter{((element+-82)>(element+element))}%>%map{61}%>%filter{-5}

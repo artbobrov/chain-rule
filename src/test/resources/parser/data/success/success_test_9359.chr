@@ -1,0 +1,1 @@
+filter{element}%>%map{(-33+(element<element))}%>%filter{-9}%>%map{((1*4)&(element*((9>element)<(-142<0))))}

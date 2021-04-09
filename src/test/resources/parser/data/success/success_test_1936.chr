@@ -1,0 +1,1 @@
+map{(-7|((-86|element)<-0))}%>%map{element}%>%filter{98}%>%filter{((element=((1|element)+22))>((element*6)<-25))}

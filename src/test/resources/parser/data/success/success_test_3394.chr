@@ -1,0 +1,1 @@
+filter{6}%>%filter{element}%>%filter{(element|((2&(element&element))|element))}

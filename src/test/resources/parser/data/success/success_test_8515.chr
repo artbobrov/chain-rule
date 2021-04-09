@@ -1,0 +1,1 @@
+map{(element<-96)}%>%filter{(2>element)}%>%filter{26}

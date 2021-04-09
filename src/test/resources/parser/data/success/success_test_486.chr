@@ -1,0 +1,1 @@
+map{-5}%>%map{((element>01801)|element)}%>%filter{(element=element)}

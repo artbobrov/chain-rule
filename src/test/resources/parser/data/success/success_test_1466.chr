@@ -1,0 +1,1 @@
+filter{(1>element)}%>%map{((20|(element|9803))=(-0&element))}%>%map{element}

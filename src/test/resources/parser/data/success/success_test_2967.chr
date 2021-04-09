@@ -1,0 +1,1 @@
+filter{(element&-3572)}%>%map{(element-49)}

@@ -1,0 +1,1 @@
+map{(element+-41818)}%>%filter{3}%>%filter{element}%>%map{-4321}%>%filter{(((element<-0)*-5)>(((element-element)-(element>10))-(element|element)))}%>%map{element}

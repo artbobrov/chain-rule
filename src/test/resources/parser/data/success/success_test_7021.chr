@@ -1,0 +1,1 @@
+filter{51}%>%filter{-4}%>%map{element}%>%map{element}%>%filter{(element|((((22174|element)|(((element&-0)>6)|element))-48)|-55))}%>%filter{((((element-67862)+element)|-679)=74)}

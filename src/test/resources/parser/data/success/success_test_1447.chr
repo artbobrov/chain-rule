@@ -1,0 +1,1 @@
+map{(element&(element+(element+01)))}%>%filter{9}%>%map{element}%>%map{(element&80)}

@@ -1,0 +1,1 @@
+filter{((44&element)-(2&((element*-2)&72)))}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{7}%>%map{(5+element)}%>%filter{(element&(-10=3154148))}

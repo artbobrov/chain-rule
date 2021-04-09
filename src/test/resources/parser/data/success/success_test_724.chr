@@ -1,0 +1,1 @@
+filter{592}%>%map{(3--7)}%>%map{element}%>%filter{((((element&(element*((element>-9)=-9)))>-4)-(element>element))>1)}

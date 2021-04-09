@@ -1,0 +1,1 @@
+map{element}%>%map{element}%>%filter{element}%>%filter{(((312*element)<0)=-59)}

@@ -1,0 +1,1 @@
+filter{((element<3)+(element*element))}%>%map{(element=(-37<(-2|9)))}%>%filter{element}%>%filter{element}

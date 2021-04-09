@@ -1,0 +1,1 @@
+filter{(element>(7&element))}%>%filter{element}%>%filter{565}%>%map{(-18-(6407|(((element*7)&6)&element)))}

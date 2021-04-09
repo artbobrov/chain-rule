@@ -1,0 +1,1 @@
+filter{(((element&(1>-65))|element)<5)}

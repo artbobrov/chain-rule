@@ -1,0 +1,1 @@
+filter{1}%>%map{-41}%>%map{3}%>%map{(element>element)}%>%filter{(8<element)}

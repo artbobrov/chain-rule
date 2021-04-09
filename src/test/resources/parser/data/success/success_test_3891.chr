@@ -1,0 +1,1 @@
+map{((-9*((element<element)+6))|element)}%>%map{5}%>%map{element}%>%filter{element}%>%filter{((element--5)+(-3|-1))}%>%map{5}

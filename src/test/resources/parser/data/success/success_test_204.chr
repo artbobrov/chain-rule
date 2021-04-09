@@ -1,0 +1,1 @@
+filter{element}%>%map{(50<(element+((626*element)=-2)))}

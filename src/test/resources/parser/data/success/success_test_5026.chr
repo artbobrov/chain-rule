@@ -1,0 +1,1 @@
+filter{(-3|(element+((element*0)*-424)))}%>%map{(element=(element<element))}%>%map{-6981}

@@ -1,0 +1,1 @@
+map{52}%>%filter{(-79<element)}%>%filter{-6}

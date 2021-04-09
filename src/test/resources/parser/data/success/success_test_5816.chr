@@ -1,0 +1,1 @@
+filter{((((-4*element)+-15)>element)+-861)}%>%filter{(element=element)}%>%map{element}

@@ -1,0 +1,1 @@
+filter{((-2|element)-((-5<element)|-471))}%>%map{(element+(-5>(element|3)))}%>%filter{(element|-1)}%>%map{((-895|-74)*467)}%>%map{element}%>%filter{(((6<element)|0620)*(-4=element))}

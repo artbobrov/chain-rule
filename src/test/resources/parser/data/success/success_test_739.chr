@@ -1,0 +1,1 @@
+map{(element|(40+-63))}%>%filter{element}%>%map{(element&((element|6)<2))}

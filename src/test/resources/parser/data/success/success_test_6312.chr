@@ -1,0 +1,1 @@
+filter{(((element*5294)=(element&48))&element)}%>%filter{(-771*element)}

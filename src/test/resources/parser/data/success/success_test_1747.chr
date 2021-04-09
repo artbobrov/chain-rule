@@ -1,0 +1,1 @@
+filter{-5}%>%filter{(5>-5)}%>%map{element}%>%filter{(element&(-6>(element-8)))}

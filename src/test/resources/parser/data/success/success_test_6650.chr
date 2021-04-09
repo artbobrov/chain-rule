@@ -1,0 +1,1 @@
+map{element}%>%filter{(element|(-0>element))}%>%filter{-9}%>%filter{((08&(element|-6593))|element)}

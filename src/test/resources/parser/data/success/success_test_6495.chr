@@ -1,0 +1,1 @@
+filter{(element>(element<element))}%>%filter{element}%>%filter{((element|(element>((element*-6)<826)))*((element&-90532)|element))}%>%map{(element+-45)}

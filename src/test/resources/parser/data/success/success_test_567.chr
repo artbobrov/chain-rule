@@ -1,0 +1,1 @@
+map{element}%>%map{60}%>%filter{-31}%>%filter{element}%>%filter{(element*((((element*8)*8)*4)+-81))}%>%map{-2}

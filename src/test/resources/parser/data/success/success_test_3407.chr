@@ -1,0 +1,1 @@
+map{element}%>%filter{(element&element)}%>%filter{(83<element)}%>%filter{((element|(element+(element<(3=element))))=-3813)}%>%filter{element}

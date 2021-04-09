@@ -1,0 +1,1 @@
+filter{(((element+element)=526)&element)}%>%map{4}

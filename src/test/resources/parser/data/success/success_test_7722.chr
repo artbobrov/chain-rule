@@ -1,0 +1,1 @@
+filter{(-07|((4540*((2+element)*8))-(00&element)))}%>%map{-40}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{(95=45)}%>%filter{(((-60&-825176)&element)|(5|(-78<element)))}%>%map{((element*element)>element)}%>%filter{4}

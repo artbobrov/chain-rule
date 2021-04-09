@@ -1,0 +1,1 @@
+map{(element*7507)}%>%map{element}%>%map{element}%>%map{-744}%>%map{-6}%>%map{(-9*((element|2)*element))}%>%filter{element}%>%filter{element}

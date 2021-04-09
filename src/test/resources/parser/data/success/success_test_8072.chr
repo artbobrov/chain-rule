@@ -1,0 +1,1 @@
+filter{(element<-38950)}%>%map{(element>((((element+(element|(75&7)))=element)=(736*((4|(element<element))<09)))>-066))}%>%map{element}

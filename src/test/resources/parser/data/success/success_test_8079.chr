@@ -1,0 +1,1 @@
+map{element}%>%filter{(6*-1)}%>%filter{((((-1844*(element+element))*((element-(element&2))|element))|(element=2))-element)}

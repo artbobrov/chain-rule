@@ -1,0 +1,1 @@
+filter{(element+(-12&((-2|element)*(-2*(element-412)))))}%>%filter{element}

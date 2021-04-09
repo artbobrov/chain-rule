@@ -1,0 +1,1 @@
+map{-1850}%>%filter{(element&((-887&element)-element))}%>%filter{element}%>%filter{element}%>%map{-14274}

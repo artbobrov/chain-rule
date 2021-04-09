@@ -1,0 +1,1 @@
+filter{-7}%>%filter{(element-(element=53))}%>%map{element}%>%filter{((element&(-72+((element*(1+element))-7)))+element)}

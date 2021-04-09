@@ -1,0 +1,1 @@
+map{(-49>element)}%>%map{element}%>%map{(element*6)}%>%map{49}

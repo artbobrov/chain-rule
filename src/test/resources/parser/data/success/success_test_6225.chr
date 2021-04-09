@@ -1,0 +1,1 @@
+filter{element}%>%filter{element}%>%filter{-860}%>%map{((element&2)=(((element+(-4<element))=(4&element))-(6=(5+element))))}%>%filter{element}%>%map{element}

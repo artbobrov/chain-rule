@@ -1,0 +1,1 @@
+filter{(56--9)}%>%map{5}%>%map{element}%>%filter{element}%>%map{(element+element)}%>%filter{element}%>%map{(element>-3)}

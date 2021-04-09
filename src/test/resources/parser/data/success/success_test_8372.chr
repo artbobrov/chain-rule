@@ -1,0 +1,1 @@
+map{0}%>%filter{element}%>%map{07}%>%map{(element=(element-element))}%>%map{((5&element)&element)}

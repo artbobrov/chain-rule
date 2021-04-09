@@ -1,0 +1,1 @@
+filter{(element=(element>(-29-element)))}%>%map{((element=2)+element)}%>%map{-2}

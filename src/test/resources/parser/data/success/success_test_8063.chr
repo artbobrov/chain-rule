@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%filter{(38|element)}%>%filter{-27385}%>%map{((element+element)>element)}

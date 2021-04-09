@@ -1,0 +1,1 @@
+filter{2}%>%map{element}%>%map{((element|((-70=3)&(-1<062)))*99)}

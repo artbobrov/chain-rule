@@ -1,0 +1,1 @@
+map{element}%>%map{-0}%>%filter{element}%>%map{-1}%>%filter{element}%>%filter{4}%>%map{(((-4426--2079)=((element=((element*-6)-((((element+6)&element)-(9<9))>element)))=element))<element)}%>%filter{element}%>%filter{element}%>%filter{-01}%>%map{element}%>%map{element}

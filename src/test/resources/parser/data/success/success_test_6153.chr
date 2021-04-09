@@ -1,0 +1,1 @@
+map{element}%>%filter{(((32=-9)<((-4*element)=(59>element)))|element)}%>%map{(0&((element+-5)>(((element*-8964)-element)>-81)))}

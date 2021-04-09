@@ -1,0 +1,1 @@
+map{((-9|-35)*(element>336))}%>%filter{(((9*4)*element)&-5)}%>%map{(element>((947+element)>element))}

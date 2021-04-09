@@ -1,0 +1,1 @@
+map{element}%>%filter{((element*element)-element)}%>%filter{(-039>element)}%>%map{element}%>%filter{305}%>%filter{element}%>%map{79}

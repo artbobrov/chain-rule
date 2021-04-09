@@ -1,0 +1,1 @@
+filter{(element>(-5=element))}%>%map{(element&055469)}%>%filter{-0}%>%filter{element}

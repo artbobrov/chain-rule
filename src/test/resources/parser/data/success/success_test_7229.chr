@@ -1,0 +1,1 @@
+map{(element*element)}%>%filter{(element|element)}%>%filter{(-6071<element)}%>%map{(-7369961=(-7328<element))}%>%map{-53}

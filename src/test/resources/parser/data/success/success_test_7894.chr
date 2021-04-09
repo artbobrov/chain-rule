@@ -1,0 +1,1 @@
+map{(element+element)}%>%filter{8796}%>%map{((element|element)|element)}%>%filter{9}%>%filter{-4}%>%filter{-096}%>%filter{-7}%>%filter{((-4&(477|(element=96)))=-57)}

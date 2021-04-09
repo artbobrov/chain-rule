@@ -1,0 +1,1 @@
+filter{-8}%>%map{((element&(-7<element))<8)}%>%map{(((element>((element|(element&((6<(element=element))+-3)))|64))>element)|element)}

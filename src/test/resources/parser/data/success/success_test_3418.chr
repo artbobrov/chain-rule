@@ -1,0 +1,1 @@
+filter{((-370|(-0|element))&572590)}%>%map{59}%>%filter{((element&6)>element)}

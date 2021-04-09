@@ -1,0 +1,1 @@
+map{element}%>%filter{8}%>%map{element}%>%filter{((-20&374)+element)}

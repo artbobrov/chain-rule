@@ -1,0 +1,1 @@
+map{element}%>%filter{((-81887+-4)>element)}%>%map{(-7901&element)}

@@ -1,0 +1,1 @@
+filter{(((-80-8)*(element*29))+element)}%>%map{((element+element)+(3<(element+(element&(2269|6)))))}

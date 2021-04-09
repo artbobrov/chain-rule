@@ -1,0 +1,1 @@
+map{-9}%>%map{(element=5)}%>%filter{element}%>%filter{((-69|-1)*(element+element))}

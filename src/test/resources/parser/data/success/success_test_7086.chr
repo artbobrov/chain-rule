@@ -1,0 +1,1 @@
+filter{-6}%>%map{((element&element)=((element+(-7=-138))>-97))}

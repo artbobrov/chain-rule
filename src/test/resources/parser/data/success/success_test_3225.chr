@@ -1,0 +1,1 @@
+filter{(element>element)}%>%map{(6|(element=-7173))}%>%map{element}%>%filter{(element&(element*element))}%>%map{element}

@@ -1,0 +1,1 @@
+map{(02+7)}%>%filter{(-71=element)}%>%map{44}%>%filter{element}%>%map{(element-662)}

@@ -1,0 +1,1 @@
+map{6}%>%map{(7*(-75=element))}%>%filter{(1-element)}%>%map{4}

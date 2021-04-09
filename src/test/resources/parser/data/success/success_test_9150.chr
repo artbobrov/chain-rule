@@ -1,0 +1,1 @@
+filter{(((element=((element|element)&(element<-4)))=(((-82<element)+element)*(((14=-84)=-34)+element)))|element)}

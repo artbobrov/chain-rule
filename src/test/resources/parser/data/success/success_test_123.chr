@@ -1,0 +1,1 @@
+filter{(-2|69)}%>%map{(4340-(((element|0)*element)&1))}

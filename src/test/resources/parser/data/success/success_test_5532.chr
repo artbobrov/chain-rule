@@ -1,0 +1,1 @@
+filter{((element>(element=7308))-element)}%>%map{((5839*element)&1)}%>%map{(-0--9)}

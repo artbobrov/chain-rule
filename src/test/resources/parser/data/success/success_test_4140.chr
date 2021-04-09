@@ -1,0 +1,1 @@
+filter{((element*element)+-7276)}%>%filter{element}%>%map{(((-5|element)>3)*-35)}%>%filter{(element>element)}

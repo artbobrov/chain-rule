@@ -1,0 +1,1 @@
+map{771}%>%filter{773}%>%map{((element=((((element|(element+element))|element)<(-6*element))+element))+((element&(((084-4)=25)+(element--2)))<2))}%>%map{6}

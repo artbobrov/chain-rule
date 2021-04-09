@@ -1,0 +1,1 @@
+filter{element}%>%map{(-6673*-3)}%>%filter{(element+54)}%>%filter{((element-element)|element)}

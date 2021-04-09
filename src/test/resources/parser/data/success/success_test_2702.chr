@@ -1,0 +1,1 @@
+map{(-28-42)}%>%filter{(-45-(element--7))}%>%map{element}%>%filter{(element&element)}%>%map{(element|element)}

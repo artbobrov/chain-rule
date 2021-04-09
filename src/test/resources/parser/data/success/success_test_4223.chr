@@ -1,0 +1,1 @@
+map{element}%>%filter{-2}%>%map{(element+-9)}%>%filter{(element&((element&(((element|-4)--2)-element))<(-98903954878*(02-951))))}

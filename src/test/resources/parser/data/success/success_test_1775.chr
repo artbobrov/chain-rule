@@ -1,0 +1,1 @@
+filter{((element<-42)*-86)}

@@ -1,0 +1,1 @@
+filter{0}%>%filter{((element=element)&(((-1+-7)|element)<(-99432+element)))}%>%filter{(element-((element*((-154|element)-element))&-244))}%>%map{element}%>%filter{-76}

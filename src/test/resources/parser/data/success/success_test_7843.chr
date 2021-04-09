@@ -1,0 +1,1 @@
+filter{(element*(56&8664))}%>%map{(element-(48<element))}

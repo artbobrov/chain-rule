@@ -1,0 +1,1 @@
+filter{(((-45*54)+(element*element))+-230879)}%>%map{-3}%>%filter{element}%>%filter{element}

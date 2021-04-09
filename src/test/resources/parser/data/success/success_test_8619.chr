@@ -1,0 +1,1 @@
+filter{8}%>%map{((element*element)-(element&element))}%>%map{(-7|element)}

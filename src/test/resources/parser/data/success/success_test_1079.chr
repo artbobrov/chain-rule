@@ -1,0 +1,1 @@
+map{-421}%>%map{-8}%>%filter{67}%>%map{(((1>element)+(element*-9))<((0*element)+42))}%>%filter{element}

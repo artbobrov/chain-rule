@@ -1,0 +1,1 @@
+filter{(-4=3)}%>%filter{29}%>%map{((950&-60)<element)}

@@ -1,0 +1,1 @@
+filter{6}%>%filter{(element>element)}%>%filter{8557273}%>%map{element}%>%map{(element&(element&-499))}%>%filter{element}

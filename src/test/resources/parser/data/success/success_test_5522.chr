@@ -1,0 +1,1 @@
+map{31}%>%filter{(element+(element&(element=3)))}

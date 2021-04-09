@@ -1,0 +1,1 @@
+map{element}%>%filter{(element*(element=5))}%>%filter{-5859}%>%map{element}

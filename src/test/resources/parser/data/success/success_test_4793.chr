@@ -1,0 +1,1 @@
+map{element}%>%map{((((element=(-3&element))=3)+-2)>element)}%>%filter{-980}%>%map{(element&element)}%>%map{element}%>%filter{-9}

@@ -1,0 +1,1 @@
+filter{-7}%>%filter{(element+(2=element))}%>%map{(((((element<element)|element)<(element+element))>element)+(element-((((element>((7-element)-element))>29)-691)*element)))}%>%map{31}

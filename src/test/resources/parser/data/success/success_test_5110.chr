@@ -1,0 +1,1 @@
+filter{39}%>%map{8}%>%map{-248216}%>%map{(916<element)}%>%filter{(element+7718)}

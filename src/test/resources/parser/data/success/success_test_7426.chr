@@ -1,0 +1,1 @@
+filter{30}%>%map{element}%>%map{(5&7)}

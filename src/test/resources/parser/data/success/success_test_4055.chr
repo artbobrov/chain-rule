@@ -1,0 +1,1 @@
+filter{((-3+5)+-19)}%>%map{(element*(element<element))}%>%map{(element<(-1<-78))}

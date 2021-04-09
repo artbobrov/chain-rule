@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%map{(((element+(7-((element+((element<-17)<element))>(element<423))))<element)>81)}

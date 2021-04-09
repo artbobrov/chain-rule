@@ -1,0 +1,1 @@
+filter{((element&124)&-54)}%>%map{(element*-2)}%>%map{19}%>%filter{-5}

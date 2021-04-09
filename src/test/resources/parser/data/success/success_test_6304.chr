@@ -1,0 +1,1 @@
+filter{(((115|-79)&element)-element)}%>%map{35}%>%map{element}%>%map{element}%>%map{(-1215-7228)}

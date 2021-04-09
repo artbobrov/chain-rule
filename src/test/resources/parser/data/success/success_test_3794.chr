@@ -1,0 +1,1 @@
+map{90}%>%filter{element}%>%filter{element}%>%filter{((element|element)+(6=element))}%>%map{3}

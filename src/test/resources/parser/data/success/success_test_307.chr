@@ -1,0 +1,1 @@
+filter{(-8|element)}%>%filter{(element>(element*(7&3)))}%>%map{42214}%>%map{(element=element)}

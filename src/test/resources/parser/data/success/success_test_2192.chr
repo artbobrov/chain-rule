@@ -1,0 +1,1 @@
+map{element}%>%filter{(element&(element|27))}%>%filter{(84<042)}

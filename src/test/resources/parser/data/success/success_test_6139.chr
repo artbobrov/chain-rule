@@ -1,0 +1,1 @@
+filter{(56|4418)}%>%filter{128}%>%filter{((1990&element)>(element<(-791|-813)))}

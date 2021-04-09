@@ -1,0 +1,1 @@
+filter{((element+(-6*1576))=element)}%>%filter{-63224}%>%map{((-35+((element=element)>element))*element)}%>%filter{-0}%>%filter{((-7-element)*(17-7))}%>%map{element}

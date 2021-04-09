@@ -1,0 +1,1 @@
+map{element}%>%filter{(element-(-46*element))}%>%filter{(-1533>-3)}

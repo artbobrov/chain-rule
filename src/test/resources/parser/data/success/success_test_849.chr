@@ -1,0 +1,1 @@
+map{535}%>%filter{element}%>%map{element}%>%filter{(element|(6+(01821|element)))}

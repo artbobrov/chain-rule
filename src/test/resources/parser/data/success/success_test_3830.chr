@@ -1,0 +1,1 @@
+map{(element<0837)}%>%filter{-2}%>%map{(3+(element|(32<-57)))}

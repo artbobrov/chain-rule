@@ -1,0 +1,1 @@
+filter{(element|((((2<(element=(((1154&(32&(1=(37*92))))=element)>144)))=0)<-3)-(element*-62)))}%>%map{((element-element)-661)}%>%map{element}%>%filter{(element=element)}%>%filter{(7<element)}

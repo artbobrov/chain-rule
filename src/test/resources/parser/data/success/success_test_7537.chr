@@ -1,0 +1,1 @@
+filter{3637}%>%map{(element+-279)}%>%map{-6979}%>%map{((50|7)+27)}%>%map{(((element|element)=449)&element)}

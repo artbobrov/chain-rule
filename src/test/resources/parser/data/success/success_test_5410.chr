@@ -1,0 +1,1 @@
+filter{element}%>%map{element}%>%map{(element&element)}%>%map{element}%>%map{((element&-52)>element)}

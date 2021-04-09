@@ -1,0 +1,1 @@
+map{(element*-77)}%>%map{element}%>%filter{8}%>%map{element}

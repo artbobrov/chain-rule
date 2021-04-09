@@ -1,0 +1,1 @@
+filter{1}%>%map{215617}%>%filter{-680478}%>%filter{(element+element)}%>%map{7}

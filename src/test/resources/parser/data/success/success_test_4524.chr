@@ -1,0 +1,1 @@
+filter{((0=((element*element)<-880))*84)}%>%map{2}

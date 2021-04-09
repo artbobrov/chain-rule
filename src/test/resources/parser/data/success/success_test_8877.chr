@@ -1,0 +1,1 @@
+filter{(6+(4&(element+2)))}%>%map{(4<0)}%>%filter{(element&(-68-element))}

@@ -1,0 +1,1 @@
+filter{4}%>%map{element}%>%filter{-9}%>%map{-45}%>%filter{39}%>%filter{(-0131-(880<element))}%>%map{((-57*element)>5)}

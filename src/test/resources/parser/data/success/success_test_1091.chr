@@ -1,0 +1,1 @@
+filter{(4=((-3+element)>(element|(-10+(4|-511)))))}%>%filter{(-9<element)}%>%map{element}%>%filter{element}%>%map{element}

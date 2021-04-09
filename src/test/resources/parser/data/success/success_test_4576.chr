@@ -1,0 +1,1 @@
+filter{((element<element)&6)}%>%filter{(element<((((element-(element*element))-87)-190)>-0))}%>%filter{element}%>%map{653}

@@ -1,0 +1,1 @@
+filter{((element*(element|(73|4824)))-element)}%>%filter{(((0|-2)&element)=(-53|element))}

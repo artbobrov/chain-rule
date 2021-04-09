@@ -1,0 +1,1 @@
+filter{-90117}%>%filter{element}%>%map{((element+element)*element)}

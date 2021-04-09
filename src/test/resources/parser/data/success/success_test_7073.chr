@@ -1,0 +1,1 @@
+map{-2}%>%filter{(element|-2)}%>%filter{(element<((element&70)=element))}

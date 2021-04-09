@@ -1,0 +1,1 @@
+map{element}%>%map{((element+6)<element)}%>%map{element}%>%map{-832}%>%filter{element}%>%map{-578}%>%map{element}%>%map{(((element<-5)|(element>element))&element)}%>%map{element}%>%map{((element+-3)*-1)}%>%filter{element}%>%map{-8}%>%filter{((-0+(element--842))>element)}%>%map{(element&element)}

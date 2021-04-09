@@ -1,0 +1,1 @@
+filter{(((element|element)-(70|0))*-74)}%>%map{(83>(element&(element|-5)))}%>%map{element}

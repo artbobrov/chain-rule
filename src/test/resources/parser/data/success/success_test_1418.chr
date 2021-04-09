@@ -1,0 +1,1 @@
+map{(element+5)}%>%filter{element}%>%map{(-6503&08)}%>%filter{element}

@@ -1,0 +1,1 @@
+filter{(element&25)}%>%map{124}%>%filter{(element>element)}

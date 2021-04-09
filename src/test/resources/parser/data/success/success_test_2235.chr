@@ -1,0 +1,1 @@
+filter{31}%>%map{((element*(element>99))<((-284&element)*91))}

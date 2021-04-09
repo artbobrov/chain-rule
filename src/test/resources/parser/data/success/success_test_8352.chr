@@ -1,0 +1,1 @@
+filter{70}%>%filter{((element|(-35>(484<39)))|(element>(67325+element)))}%>%filter{element}%>%map{element}%>%map{0}%>%filter{element}

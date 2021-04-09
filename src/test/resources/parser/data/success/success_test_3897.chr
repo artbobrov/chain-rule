@@ -1,0 +1,1 @@
+filter{(element<element)}%>%map{((element<429960)&element)}%>%map{(-1863953*element)}%>%filter{02}

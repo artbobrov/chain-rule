@@ -1,0 +1,1 @@
+map{element}%>%map{(7&-263)}%>%filter{0}%>%filter{(element&-3)}

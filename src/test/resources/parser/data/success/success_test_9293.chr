@@ -1,0 +1,1 @@
+filter{(((element|((element*-5)&element))+7)&((-9&31)+element))}%>%map{(-33>4076)}%>%map{element}

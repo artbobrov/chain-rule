@@ -1,0 +1,1 @@
+filter{80}%>%map{-2}%>%filter{((element-element)|element)}

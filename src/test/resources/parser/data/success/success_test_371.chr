@@ -1,0 +1,1 @@
+filter{(element-(58|-171))}%>%map{9}%>%map{(-1&-9)}%>%filter{(((-66-element)&54)|37888829)}

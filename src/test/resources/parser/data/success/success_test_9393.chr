@@ -1,0 +1,1 @@
+map{element}%>%filter{(-0>(element<-6))}%>%filter{(-4<(80>element))}%>%filter{element}%>%filter{element}%>%map{element}

@@ -1,0 +1,1 @@
+map{(element=element)}%>%map{(element*element)}%>%filter{((element+element)*element)}%>%map{-0}

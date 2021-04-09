@@ -1,0 +1,1 @@
+filter{9802}%>%map{element}%>%map{(element>6936)}%>%map{element}

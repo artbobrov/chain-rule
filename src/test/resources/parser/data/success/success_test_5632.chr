@@ -1,0 +1,1 @@
+map{element}%>%filter{(0&3)}%>%map{-6473730}%>%filter{1}

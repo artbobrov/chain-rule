@@ -1,0 +1,1 @@
+filter{-92}%>%filter{element}%>%map{(element>-55)}%>%filter{(element>-528)}%>%filter{-2}

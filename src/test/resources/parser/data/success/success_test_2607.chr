@@ -1,0 +1,1 @@
+filter{(element+(element<element))}%>%map{(element*-8)}%>%filter{2482}%>%map{element}%>%filter{(element-(344*9))}%>%map{(element-49)}%>%map{((element<247)--6)}%>%filter{-52}%>%filter{9}

@@ -1,0 +1,1 @@
+map{element}%>%filter{2}%>%filter{((element*element)&6)}%>%map{element}%>%filter{(20&element)}

@@ -1,0 +1,1 @@
+map{4}%>%filter{((00+element)|(0642176298192*-7))}%>%filter{2272}%>%map{element}%>%filter{(element&(element-((9=526)&-9)))}

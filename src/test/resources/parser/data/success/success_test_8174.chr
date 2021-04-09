@@ -1,0 +1,1 @@
+map{-4}%>%filter{((element=7)&(element*-4))}%>%filter{(-5>(7<(8*3)))}

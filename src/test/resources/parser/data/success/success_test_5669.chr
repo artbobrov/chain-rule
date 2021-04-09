@@ -1,0 +1,1 @@
+map{-981}%>%filter{(element&((element+element)+-2))}

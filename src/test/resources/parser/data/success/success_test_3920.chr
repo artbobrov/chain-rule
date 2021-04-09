@@ -1,0 +1,1 @@
+map{(element|34)}%>%filter{(((element=66)>(element&3))*element)}%>%map{-31}

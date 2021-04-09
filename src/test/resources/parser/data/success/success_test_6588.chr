@@ -1,0 +1,1 @@
+filter{(((element&255)*0)=element)}

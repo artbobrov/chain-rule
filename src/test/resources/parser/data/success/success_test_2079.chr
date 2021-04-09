@@ -1,0 +1,1 @@
+filter{8}%>%map{(((354-(2&0))*(element>10372))=((((element&element)|(element+-243))-(-8*730))>element))}%>%map{-8}%>%map{-45}

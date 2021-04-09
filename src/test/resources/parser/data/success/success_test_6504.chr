@@ -1,0 +1,1 @@
+filter{(-60|(((element&((element+(9-element))=-4))<-9)-3))}%>%map{-45}%>%filter{element}%>%filter{-476}

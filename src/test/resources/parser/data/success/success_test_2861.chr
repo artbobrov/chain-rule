@@ -1,0 +1,1 @@
+map{((element-7)+element)}%>%filter{(element*element)}%>%map{element}%>%filter{96}%>%filter{(element<element)}

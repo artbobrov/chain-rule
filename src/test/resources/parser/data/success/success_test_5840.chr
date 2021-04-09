@@ -1,0 +1,1 @@
+filter{element}%>%map{-6}%>%map{((element=61)>element)}

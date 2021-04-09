@@ -1,0 +1,1 @@
+filter{47}%>%map{636}%>%map{element}%>%map{(element-26)}

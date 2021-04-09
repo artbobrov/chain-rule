@@ -1,0 +1,1 @@
+filter{99}%>%map{((element<element)-((element>4)&element))}%>%map{84}

@@ -1,0 +1,1 @@
+map{3}%>%filter{(00*element)}%>%filter{element}%>%filter{(((4+(element*213))>element)<2)}

@@ -1,0 +1,1 @@
+map{-75}%>%filter{element}%>%map{(-89+(element&element))}%>%filter{((-2*(652|element))&element)}%>%filter{-9}

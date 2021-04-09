@@ -1,0 +1,1 @@
+filter{((element+(-6-6590))|1)}%>%map{((element*element)*element)}%>%map{(((element|192)&element)-(element&-4))}

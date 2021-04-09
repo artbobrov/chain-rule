@@ -1,0 +1,1 @@
+filter{(element=-0)}%>%filter{-71209759}%>%map{(element+(element&(-461+(element+-9))))}

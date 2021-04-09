@@ -1,0 +1,1 @@
+filter{((element*-6)&(element*64))}%>%filter{element}%>%map{(element-element)}

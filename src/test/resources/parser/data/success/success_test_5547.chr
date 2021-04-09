@@ -1,0 +1,1 @@
+filter{((((56&element)>-736)=element)-394)}%>%map{element}%>%filter{element}

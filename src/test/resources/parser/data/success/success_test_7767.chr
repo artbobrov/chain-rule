@@ -1,0 +1,1 @@
+filter{(element|element)}%>%filter{element}%>%map{(element*element)}%>%map{80}%>%filter{1}%>%filter{7}%>%filter{(-06-((-2*element)--8))}

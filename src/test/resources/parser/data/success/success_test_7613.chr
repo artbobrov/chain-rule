@@ -1,0 +1,1 @@
+filter{(((-5*element)=-9)-(element<-59))}%>%map{062907}%>%map{4}

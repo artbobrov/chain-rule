@@ -1,0 +1,1 @@
+filter{4}%>%map{(element&3)}%>%filter{element}%>%filter{element}

@@ -1,0 +1,1 @@
+map{element}%>%filter{element}%>%filter{8}%>%map{element}%>%filter{element}%>%filter{-4}%>%map{((-1754*43320295741)<(((98+element)>2102)--82340969))}
