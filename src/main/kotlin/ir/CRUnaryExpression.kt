@@ -2,7 +2,7 @@ package ir
 
 import ir.visitor.CRIRElementVisitor
 
-class CRUnaryExpression(children: List<CRIRElement>) : CRIRTypedElementBase(children), CRIRExpression {
+class CRUnaryExpression(children: List<CRIRElement>) : CRIRExpressionBase(children), CRIRExpression {
     var operator: CROperatorType
         get() = getChild(0) ?: throw IllegalStateException()
         set(value) = replaceChild(value, 0)
@@ -14,4 +14,6 @@ class CRUnaryExpression(children: List<CRIRElement>) : CRIRTypedElementBase(chil
     override fun <T> accept(visitor: CRIRElementVisitor<T>): T {
         return visitor.visitUnaryExpression(this)
     }
+
+    override fun copy() = CRUnaryExpression(children.copy())
 }

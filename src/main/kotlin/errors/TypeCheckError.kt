@@ -1,8 +1,6 @@
 package errors
 
-import ir.CRIRElement
-
-class TypeCheckError: IllegalStateException {
+class TypeCheckError : IllegalStateException {
     constructor(message: String) : super(transformMessage(message))
     constructor(message: String, cause: Throwable) : super(transformMessage(message), cause)
     constructor(cause: Throwable) : super(cause)
@@ -12,8 +10,4 @@ class TypeCheckError: IllegalStateException {
             return "TYPE ERROR. $message"
         }
     }
-}
-
-fun typeResolutionError(ir: CRIRElement): Nothing {
-    error("Cannot resolve type for ${ir.text}")
 }

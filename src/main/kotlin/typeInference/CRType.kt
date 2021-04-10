@@ -1,4 +1,4 @@
-package typeCheck
+package typeInference
 
 sealed class CRType {
     object Int : CRType() {
@@ -29,7 +29,7 @@ sealed class CRType {
         }
 
         fun canChainWith(other: Function1): kotlin.Boolean {
-            return argument.canConvertTo(other.argument) || other.argument.canConvertTo(argument)
+            return returns.canConvertTo(other.argument) || other.argument.canConvertTo(returns)
         }
     }
 

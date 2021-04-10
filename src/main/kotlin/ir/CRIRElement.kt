@@ -8,11 +8,17 @@ interface CRIRElement {
 
     val children: List<CRIRElement>
 
+    var parent: CRIRElement?
+
     val text: String
+
+    fun copy(): CRIRElement
 }
 
 abstract class CRIRElementBase(children: List<CRIRElement>) : CRIRElement {
-    override val children: MutableList<CRIRElement> = children.toMutableList()
+    override val children: MutableList<CRIRElement> = children.toMutableList().onEach { it.parent = this }
+
+    override var parent: CRIRElement? = null
 
     protected inline fun <reified T : CRIRElement> getChild(offset: Int): T? {
         val childIndex = indexOfChild<T>(offset)
@@ -22,6 +28,7 @@ abstract class CRIRElementBase(children: List<CRIRElement>) : CRIRElement {
     protected inline fun <reified T : CRIRElement> replaceChild(newChild: T, offset: Int) {
         val childIndex = indexOfChild<T>(offset) ?: childNotFound(offset)
 
+        newChild.parent = this
         children[childIndex] = newChild
     }
 
@@ -42,8 +49,9 @@ abstract class CRIRElementBase(children: List<CRIRElement>) : CRIRElement {
             accept(visitor)
             return buffer.toString()
         }
-}
 
+    protected fun List<CRIRElement>.copy(): List<CRIRElement> = map { it.copy() }
+}
 
 fun childNotFound(offset: Int): Nothing {
     throw IllegalArgumentException("Child with index $offset is not found")

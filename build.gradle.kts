@@ -3,6 +3,7 @@ plugins {
     java
     application
     kotlin("jvm") version "1.4.32"
+    id("org.jlleitschuh.gradle.ktlint") version "9.4.1"
 }
 
 group = "com.artbobrov"
@@ -12,10 +13,20 @@ repositories {
     mavenCentral()
 }
 
+application {
+    mainClass.set("MainKt")
+}
+
 dependencies {
+    implementation(kotlin("reflect"))
     implementation(kotlin("stdlib"))
     antlr("org.antlr", "antlr4", "4.8")
+    implementation("com.xenomachina:kotlin-argparser:2.0.7")
     testImplementation("org.junit.jupiter", "junit-jupiter", "5.7.0")
+}
+
+ktlint {
+    enableExperimentalRules.set(true)
 }
 
 configure<JavaPluginConvention> {

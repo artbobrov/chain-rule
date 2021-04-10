@@ -1,5 +1,7 @@
 package ir
 
-interface CRIRCallElement : CRIRElement {
-    val lastExpression: CRIRExpression
+interface CRIRCallElement : CRIRElement
+
+interface CRIRBasicCallElement : CRIRCallElement {
+    var expression: CRIRExpression
 }

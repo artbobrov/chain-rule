@@ -9,56 +9,33 @@ interface CRIRElementVisitor<T> {
 
     fun visitIRExpression(ir: CRIRExpression): T = visitIRElement(ir)
 
-    fun visitElement(ir: CRElement): T
+    fun visitParenthesizedExpression(ir: CRParenthesizedExpression) = visitIRExpression(ir)
 
-    fun visitUnaryExpression(ir: CRUnaryExpression): T
+    fun visitElement(ir: CRElement) = visitIRExpression(ir)
 
-    fun visitParenthesizedExpression(ir: CRParenthesizedExpression): T
+    fun visitUnaryExpression(ir: CRUnaryExpression) = visitIRExpression(ir)
 
-    fun visitBinaryExpression(ir: CRBinaryExpression): T
+    fun visitBinaryExpression(ir: CRBinaryExpression) = visitIRExpression(ir)
 
-    fun visitCallComposition(ir: CRCallComposition): T
+    fun visitCallComposition(ir: CRCallComposition) = visitIRElement(ir)
 
-    fun visitFilterCall(ir: CRFilterCall): T
+    fun visitFilterCall(ir: CRFilterCall) = visitIRCallElement(ir)
 
-    fun visitMapCall(ir: CRMapCall): T
+    fun visitMapCall(ir: CRMapCall) = visitIRCallElement(ir)
 
-    fun visitOperator(ir: CROperatorType): T
+    fun visitOperator(ir: CROperatorType) = visitIRElement(ir)
 
-    fun visitNumber(ir: CRNumber): T
+    fun visitNumber(ir: CRNumber) = visitIRExpression(ir)
 
-    fun visitTerminal(ir: CRLeaf): T
+    fun visitBoolean(ir: CRBoolean) = visitIRExpression(ir)
+
+    fun visitTerminal(ir: CRLeaf) = visitIRElement(ir)
 }
 
-
-abstract class CRIRElementBaseVisitor : CRIRElementVisitor<Unit> {
+abstract class CRIRElementBaseRecursiveVisitor : CRIRElementVisitor<Unit> {
     override fun visitIRElement(ir: CRIRElement) {
         for (child in ir.children) {
             child.accept(this)
         }
     }
-
-    override fun visitIRCallElement(ir: CRIRCallElement) = visitIRElement(ir)
-
-    override fun visitIRExpression(ir: CRIRExpression) = visitIRElement(ir)
-
-    override fun visitParenthesizedExpression(ir: CRParenthesizedExpression) = visitIRExpression(ir)
-
-    override fun visitElement(ir: CRElement) = visitIRExpression(ir)
-
-    override fun visitUnaryExpression(ir: CRUnaryExpression) = visitIRExpression(ir)
-
-    override fun visitBinaryExpression(ir: CRBinaryExpression) = visitIRExpression(ir)
-
-    override fun visitCallComposition(ir: CRCallComposition) = visitIRElement(ir)
-
-    override fun visitFilterCall(ir: CRFilterCall) = visitIRCallElement(ir)
-
-    override fun visitMapCall(ir: CRMapCall) = visitIRCallElement(ir)
-
-    override fun visitOperator(ir: CROperatorType) = visitIRElement(ir)
-
-    override fun visitNumber(ir: CRNumber) = visitIRExpression(ir)
-
-    override fun visitTerminal(ir: CRLeaf) = visitIRElement(ir)
 }

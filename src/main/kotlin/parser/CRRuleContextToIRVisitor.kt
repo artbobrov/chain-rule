@@ -3,10 +3,9 @@ package parser
 import antlr.ChainRuleParser
 import antlr.ChainRuleParserBaseVisitor
 import ir.*
-import ir.CROperatorType.OperatorType.Companion.isOperator
+import ir.OperatorType.Companion.isOperator
 import org.antlr.v4.runtime.ParserRuleContext
 import org.antlr.v4.runtime.tree.TerminalNode
-
 
 class CRRuleContextToIRVisitor : ChainRuleParserBaseVisitor<CRIRElement>() {
     override fun visitTerminal(node: TerminalNode): CRIRElement {

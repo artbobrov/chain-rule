@@ -2,8 +2,7 @@ package ir
 
 import ir.visitor.CRIRElementVisitor
 
-class CRBinaryExpression(children: List<CRIRElement>) : CRIRTypedElementBase(children), CRIRExpression,
-    CRIRTypedElement {
+class CRBinaryExpression(children: List<CRIRElement>) : CRIRExpressionBase(children), CRIRTypedElement {
     var leftExpression: CRIRExpression
         get() = getChild(0) ?: throw IllegalStateException()
         set(value) = replaceChild(value, 0)
@@ -19,4 +18,6 @@ class CRBinaryExpression(children: List<CRIRElement>) : CRIRTypedElementBase(chi
     override fun <T> accept(visitor: CRIRElementVisitor<T>): T {
         return visitor.visitBinaryExpression(this)
     }
+
+    override fun copy() = CRBinaryExpression(children.copy())
 }
